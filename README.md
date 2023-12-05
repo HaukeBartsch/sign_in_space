@@ -2,7 +2,7 @@
 
 Sign in space decoding challenge
 
-[https://asignin.space/decode-the-message/](A sign in space)
+[A sign in space](https://asignin.space/decode-the-message/]
 
 
 ### A signal from the stars
